@@ -8,7 +8,7 @@ const mongoose = require('mongoose')
 const {Schema} = mongoose   //here we destructuring the mongoose which connected to mongoURI online cloud we can access/fetch the online data or
                                 //or we can send the data from here 
 
-const loginSchema = new Schema({        //now create the object for Schema and create Schema body
+const loginSchema = new Schema({        //now create the object for Schema and create Schema body 
     email:{
         type : String,
         require:true
