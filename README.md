@@ -1,10 +1,5 @@
 # Capstone_project
 
-
-# Capstone-Project-
-
-
-
 Add a readme file containing the whole installation process, and how to run the project.=>
 
 INSTRUCTION TO RUN  (FRONTEND)
