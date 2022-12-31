@@ -29,3 +29,4 @@ const UserSchema = new Schema({     //here we created Schema object
 module.exports = mongoose.model('user',UserSchema)  //where 'user' is collection which we creating and with that exporting UserSchema which holds entire schema
 
 
+ 
