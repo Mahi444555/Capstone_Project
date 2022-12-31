@@ -8,7 +8,7 @@ const router = express.Router();  //its same as const app = express()  : app.pos
 //here we accessing router() from express() method: router.post, router.get()...
 // const User = require('../models/Login') //here we accessing that Schema module 
 
-
+ 
 //but now we don't need schema for these login page we just entering emailid and password & checking 
 //is entered email and password is correct / matched with any email&password which already created in models/User Schema hence we using/accessing ../models/User Schema
 
