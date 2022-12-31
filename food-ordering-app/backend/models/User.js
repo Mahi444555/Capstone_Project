@@ -6,7 +6,7 @@ const { Schema } = mongoose;   //destructuring the mongoose which connected to m
 const UserSchema = new Schema({     //here we created Schema object 
     name:{
         type:String,
-        required: true
+        required: true 
     },
 
     email:{
