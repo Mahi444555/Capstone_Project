@@ -6,7 +6,7 @@ const OrderSchema = new Schema({ //here created Schema object
 
     email:{
         type:String,
-        required: true,
+        required: true, 
         unique: true
     },
     order_data: {
