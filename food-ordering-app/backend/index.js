@@ -5,7 +5,7 @@ const port =5000
 app.use(express.json())
 
 const createConnection = require("./db")         //here we accessing mongoDB method from ./db file and from here we calling that method to executes
-createConnection();
+createConnection(); 
 
 
 app.get("/", (req,res)=>{
