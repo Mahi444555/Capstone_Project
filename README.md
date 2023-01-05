@@ -25,3 +25,7 @@ Note: you need to run backend project to load the data which we fetching from ba
 
 
 INSTRUCTION FOR HOW TO DOWNLOAD PROJECT AND RUN
+
+
+Hosted : frontend :https://frontend-pjag.onrender.com/
+Hosted : backend :https://backend-0ykc.onrender.com
